@@ -2,7 +2,7 @@
 //  AppDelegate.h
 //  CustomColors
 //
-//  Created by Doreen Theverapperuma on 9/14/15.
+//  Created by DCT on 9/14/15.
 //  Copyright © 2015 DCT. All rights reserved.
 //
 
